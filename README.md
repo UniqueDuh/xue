@@ -1,2 +1,4 @@
-# hulk
-A best and easy usable hulk dos file ported for termux
+# xue
+Clone this
+python2 xue.py link
+done 
